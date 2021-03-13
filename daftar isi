@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <title>daftar isi</title>
+    <link rel="stylesheet" href="style.css" type="text/css" media="" />
+    
+</head>
+<body>
+    <form >
+    <h1>daftar isi</h1>
+    <iframe id="GCI" src="" frameborder=""></iframe>
+    <br />
+    <label for="nama">nama</label>
+    <br />
+    <input type="text" name="" id="name" value="" />
+    <br />
+    <label for="alamat lengkap">alamat</label>
+    <br />
+    <input type="text" name="" id="alamat lengkap" value="" />
+    <br />
+    <label for="tempat tanggal lahir">tempat tanggal lahir</label>
+    <br />
+    <input type="text" name="" id="tempat tanggal lahir" value="" />
+    <br />
+    <label for="nomor hp">nomor</label>
+    <br />
+    <input type="text" name="" id="nomor hp" value="" />
+    <br />
+    <label for="regional">regional</label>
+    <br />
+    <input type="text/submit/hidden/button" name="regional" id="regional" value="" />
+    <br />
+    <label for="chapter">chapter</label>
+    <br />
+    <input type="text/submit/hidden/button" name="chapter" id="chapter" value="" />
+    <br />
+    <label for="NRA">NRA</label>
+    <br />
+    <input type="text/submit/hidden/button" name="NRA" id="NRA" value="" />
+    <br />
+    <label for="jenis kendaraan">jenis kendaraan</label>
+    <select name="jenis kendaraan" id="jenis kendaraan">
+        <option value="">GSX R</option>
+        <option value="">GSX S</option>
+    </select>
+    <br />
+    <button type="submit">daftar</button>
+    </form>
+    <h3 id="">apabila belum mendapatkan NRA silahkan hubungi pengurus regional anda</h3>
+    
+</body>
+</html>
